@@ -1,2 +1,2 @@
 # weatherApp
-Basic WeatherApp for exercise
+Basic WeatherApp for exercise ( not finished yet)
